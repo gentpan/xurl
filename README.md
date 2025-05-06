@@ -27,3 +27,11 @@
 ```bash
 git clone https://github.com/yourname/xurl.git
 cd xurl
+2. 导入数据库
+导入 database.sql 文件到你的 MySQL 数据库。
+CREATE DATABASE xurl;
+USE xurl;
+SOURCE database.sql;
+3. 配置数据库信息
+复制并修改配置文件：
+cp config.sample.php config.php
