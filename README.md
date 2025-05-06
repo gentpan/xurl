@@ -2,7 +2,7 @@
 
 一个基于 **PHP + MySQL + Nginx** 打造的短网址生成与管理系统，专注于极简、快速与易用。
 
-[![License](https://img.shields.io/github/license/yourname/xurl)](LICENSE)
+[![License](https://img.shields.io/github/license/gentpan/xurl)](LICENSE)
 
 ## ✨ 功能特性
 
